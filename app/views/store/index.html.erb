@@ -1,5 +1,7 @@
 <p id="notice"><%= notice %></p>
-<p><%= @count %></p>
+<% if @count >= 5 %>
+<p><%= pluralize(@count, 'visit') %></p>
+<% end %>
 <h1>Your Pragmatic Catalog</h1>
 
 <% cache @products do %>

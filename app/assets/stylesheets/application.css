@@ -75,6 +75,25 @@ body, body > p, body > ol, body > ul, body > td {margin: 8px !important}
   font-size: small;
 }
 
+#side form, div {
+  display: inline;
+}
+
+input{
+  font-size: small;
+}
+
+#cart {
+  font-size: smaller;
+  color: white;
+}
+
+#cart table {
+  border-top:    1px dotted #595;
+  border-bottom: 1px dotted #595;
+  margin-bottom: 10px;
+}
+
 
 
 @media all and (max-width: 800px) {

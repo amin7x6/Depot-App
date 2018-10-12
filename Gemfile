@@ -19,6 +19,10 @@ gem 'jquery-rails'
 gem 'jquery-ui-rails'
 gem 'hirb', '~> 0.2.4'
 
+gem 'actionpack', '~> 5.2.0'
+gem 'railties', '~> 5.2.0'
+gem 'sprockets', github: 'rails/sprockets', branch: 'master'
+
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks

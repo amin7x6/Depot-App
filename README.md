@@ -1,24 +1,3 @@
-# README
+# Online Book Store With Rails 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<img width="1421" alt="screen shot 2018-10-10 at 10 18 05 pm" src="https://user-images.githubusercontent.com/20744895/46782401-f333df80-ccda-11e8-96c0-a356da6cf78e.png">
